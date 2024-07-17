@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="overwhelmed_heading">
+        <![CDATA[
+        <b>Feeling Overwhelmed:</b>
+        ]]>
+    </string>
+    <string name="overwhelmed_desc">
+        <![CDATA[
+        When life feels overwhelming, it’s important to take steps to regain control and find peace.<br/><br/>
+        <b>Examples:</b><br/>
+        • Break tasks into smaller steps<br/>
+        • Prioritize what’s important<br/>
+        • Take breaks and rest<br/>
+        • Reach out for support<br/><br/>
+        <b>Benefits:</b><br/>
+        • Increases productivity<br/>
+        • Reduces stress levels<br/>
+        • Enhances mental clarity<br/>
+        • Improves emotional balance<br/><br/>
+        <b>Tips:</b><br/>
+        • Set realistic goals<br/>
+        • Learn to say no<br/>
+        • Practice self-care regularly<br/>
+        • Keep a positive mindset
+        ]]>
+    </string>
+</resources>

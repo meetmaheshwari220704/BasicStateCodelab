@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nightly_wind_down_heading">
+        <![CDATA[
+        <b>Nightly Wind Down:</b>
+        ]]>
+    </string>
+    <string name="nightly_wind_down_desc">
+        <![CDATA[
+        A nightly wind down routine can help you transition from the busyness of the day to a restful night.<br/><br/>
+        <b>Examples:</b><br/>
+        • Gentle stretching<br/>
+        • Reading a book<br/>
+        • Listening to calming music<br/>
+        • Journaling your thoughts<br/><br/>
+        <b>Benefits:</b><br/>
+        • Improves sleep quality<br/>
+        • Reduces stress<br/>
+        • Enhances relaxation<br/>
+        • Promotes a sense of peace<br/><br/>
+        <b>Tips:</b><br/>
+        • Avoid screens before bed<br/>
+        • Keep a consistent routine<br/>
+        • Create a calming environment<br/>
+        • Reflect on positive moments of the day
+        ]]>
+    </string>
+</resources>

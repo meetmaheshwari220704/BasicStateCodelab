@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="short_mantras_heading">
+        <![CDATA[
+        <b>Short Mantras:</b>
+        ]]>
+    </string>
+    <string name="smdesc">
+        <![CDATA[
+        Find calm and clarity in just a few words. Our short mantras are designed to be easy to remember and repeat, helping you to focus your mind and quiet your thoughts. Whether you\'re looking to reduce stress, improve your mood, or simply feel more centered, these short mantras can help.<br/><br/>
+        <b>Examples:</b><br/>
+        • Breathe in, calm out<br/>
+        • Let go, be free<br/>
+        • Calm mind, clear heart<br/>
+        • Peace within, peace without<br/>
+        • I am enough, I am strong<br/><br/>
+        <b>Benefits:</b><br/>
+        • Reduces stress and anxiety<br/>
+        • Improves mood and overall well-being<br/>
+        • Increases focus and concentration<br/>
+        • Enhances self-awareness and self-acceptance<br/>
+        • Promotes a sense of calm and inner peace<br/><br/>
+        <b>Tips:</b><br/>
+        • Repeat your chosen mantra to yourself whenever you feel stressed or overwhelmed<br/>
+        • Use your mantra during meditation or deep breathing exercises<br/>
+        • Write your mantra down and post it somewhere you\'ll see it often<br/>
+        • Share your mantra with a friend or loved one and practice together
+        ]]>
+    </string>
+</resources>

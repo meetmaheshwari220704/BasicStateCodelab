@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nature_meditation_heading">
+        <![CDATA[
+        <b>Nature Meditation:</b>
+        ]]>
+    </string>
+    <string name="nature_meditation_desc">
+        <![CDATA[
+        Connect with nature to find inner peace and balance. Nature meditation can be a powerful tool for relaxation.<br/><br/>
+        <b>Examples:</b><br/>
+        • Walking in the park<br/>
+        • Sitting by a river<br/>
+        • Observing wildlife<br/>
+        • Breathing fresh air<br/><br/>
+        <b>Benefits:</b><br/>
+        • Reduces stress<br/>
+        • Improves mood<br/>
+        • Enhances focus<br/>
+        • Promotes a sense of well-being<br/><br/>
+        <b>Tips:</b><br/>
+        • Disconnect from technology<br/>
+        • Be mindful of your surroundings<br/>
+        • Use all your senses<br/>
+        • Take deep, slow breaths
+        ]]>
+    </string>
+</resources>

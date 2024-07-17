@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stressandanxietyheading">
+        <![CDATA[
+        <b>Stress and Anxiety:</b>
+        ]]>
+    </string>
+    <string name="saadesc">
+        <![CDATA[
+        Stress and anxiety can affect anyone. Learn techniques to manage these feelings and improve your well-being.<br/><br/>
+        <b>Examples:</b><br/>
+        • Deep breathing exercises<br/>
+        • Progressive muscle relaxation<br/>
+        • Mindfulness meditation<br/>
+        • Visualization<br/><br/>
+        <b>Benefits:</b><br/>
+        • Reduces physical tension<br/>
+        • Improves mental clarity<br/>
+        • Enhances emotional regulation<br/>
+        • Boosts overall mood<br/><br/>
+        <b>Tips:</b><br/>
+        • Practice daily for best results<br/>
+        • Find a quiet place to relax<br/>
+        • Combine techniques for greater effect<br/>
+        • Be patient and consistent
+        ]]>
+    </string>
+</resources>

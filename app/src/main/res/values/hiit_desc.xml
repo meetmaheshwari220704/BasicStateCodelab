@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hiit_desc">
+        High-intensity interval training (HIIT) workout consisting of 20 seconds of intense exercise followed by 10 seconds of rest, repeated for four minutes.
+    </string>
+</resources>
