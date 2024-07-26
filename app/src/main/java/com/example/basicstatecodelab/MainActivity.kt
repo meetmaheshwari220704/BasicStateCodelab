@@ -1023,3 +1023,21 @@ fun BottomNavBar(navController: NavHostController, modifier: Modifier = Modifier
         }
     }
 }
+/*fun sendNotification(notificationTitle: String, notificationBody: String, deviceToken: String) {
+    val message = RemoteMessage.Builder(deviceToken)
+        .setMessageId(UUID.randomUUID().toString())
+        .setData(mapOf(
+            "title" to notificationTitle,
+            "body" to notificationBody
+        ))
+        .build()
+
+    Firebase.messaging.send(message)
+        .addOnCompleteListener { task ->
+            if (task.isSuccessful) {
+                Log.d("Notification", "Notification sent successfully")
+            } else {
+                Log.e("Notification", "Failed to send notification", task.exception)
+            }
+        }
+}*/
